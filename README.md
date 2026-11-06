@@ -11,14 +11,14 @@
 | # | 模組（中／英） | 投影片 | 檔案 |
 |---|---|---|---|
 | M0 | 歡迎與課程總覽 ｜ *Welcome and Course Overview* | 11 | [M0_Welcome_and_Course_Overview.html](M0_Welcome_and_Course_Overview.html) |
-| M1 | AI 商業策略師的工具箱 ｜ *The AI Business Strategist's Toolkit* | 60 | [M1_AI_Business_Strategist_Toolkit.html](M1_AI_Business_Strategist_Toolkit.html) |
-| M2 | 探索階段:問題診斷、組織準備度與資料基礎 ｜ *Discover: Problem, Readiness, and Data Foundations* | 54 | [M2_Discover_Problem_Readiness_Data.html](M2_Discover_Problem_Readiness_Data.html) |
-| M3 | 設計:能力對應、治理與範疇界定 ｜ *Design: Capabilities, Governance, and Scope* | 69 | [M3_Design_Capabilities_Governance_Scope.html](M3_Design_Capabilities_Governance_Scope.html) |
+| M1 | AI 商業策略顧問的工具箱 ｜ *The AI Business Strategist's Toolkit* | 60 | [M1_AI_Business_Strategist_Toolkit.html](M1_AI_Business_Strategist_Toolkit.html) |
+| M2 | 探索階段：診斷問題、組織準備度與資料基礎 ｜ *Discover: Problem, Readiness, and Data Foundations* | 54 | [M2_Discover_Problem_Readiness_Data.html](M2_Discover_Problem_Readiness_Data.html) |
+| M3 | 設計階段：能力、治理與範圍 ｜ *Design: Capabilities, Governance, and Scope* | 69 | [M3_Design_Capabilities_Governance_Scope.html](M3_Design_Capabilities_Governance_Scope.html) |
 | M4 | 交付：試點、變革與規模化 ｜ *Deliver: Pilot, Change, and Scale* | 57 | [M4_Deliver_Pilot_Change_Scale.html](M4_Deliver_Pilot_Change_Scale.html) |
-| M5 | 代理式 AI：架構、評估與正式環境維運 ｜ *Agentic AI: Architecture, Evaluation, and Production* | 55 | [M5_Agentic_AI_Architecture_Evaluation_Production.html](M5_Agentic_AI_Architecture_Evaluation_Production.html) |
+| M5 | 代理式 AI:架構、評估與生產維運 ｜ *Agentic AI: Architecture, Evaluation, and Production* | 55 | [M5_Agentic_AI_Architecture_Evaluation_Production.html](M5_Agentic_AI_Architecture_Evaluation_Production.html) |
 | M6 | 共同探索 ｜ *Discover Together* | 28 | [M6_Discover_Together.html](M6_Discover_Together.html) |
 | M7 | 共同設計 ｜ *Design Together* | 44 | [M7_Design_Together.html](M7_Design_Together.html) |
-| M8 | 共同交付 ｜ *Deliver Together* | 40 | [M8_Deliver_Together.html](M8_Deliver_Together.html) |
+| M8 | 攜手交付 ｜ *Deliver Together* | 40 | [M8_Deliver_Together.html](M8_Deliver_Together.html) |
 | M9 | 課程總結與延伸學習 ｜ *Summary and Continue Your Learning* | 13 | [M9_Summary_and_Continue_Your_Learning.html](M9_Summary_and_Continue_Your_Learning.html) |
 
 > 全課合計 **431** 張投影片，**10** 張摘要圖卡。
@@ -37,6 +37,10 @@
 - **檢視**：用瀏覽器開啟 `index.html`，或直接開啟任一 `Mx_*.html`。
 - **列印／PDF**：瀏覽器列印（Cmd/Ctrl+P）即可存成 PDF，版面已為列印最佳化。
 - **離線**：所有樣式與內容內嵌於單一 HTML，無需網路。
+
+## 版本紀錄
+
+- **2026-11-06**：依課程包 `100-MLAIST-10-EN-PPTX.1.0.1-20261102182141` 重新產生全部圖卡與路線圖。逐檔 MD5 比對確認與前一版（`1.0.0-20260910161155`）**內容完全相同**，僅為重新封裝；本次更新屬於版本對齊的重新產生，非內容改版。
 
 ---
 
